@@ -1,0 +1,15 @@
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\bin\Debug\TestForm Mouse Scroll.exe.config
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\bin\Debug\TestForm Mouse Scroll.exe
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\bin\Debug\TestForm Mouse Scroll.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm Mouse Scroll.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm_Mouse_Scroll.Properties.Resources.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm Mouse Scroll.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm Mouse Scroll.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm Mouse Scroll.exe
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm Mouse Scroll.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm_Mouse_Scroll.Form1.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm_Mouse_Scroll.fClass.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm_Mouse_Scroll.fListPerson.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm_Mouse_Scroll.fListTask.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm_Mouse_Scroll.fAddTask.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\CSharp_Test\TestForm Mouse Scroll\TestForm Mouse Scroll\obj\Debug\TestForm_Mouse_Scroll.fLogin.resources
